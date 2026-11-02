@@ -4,4 +4,4 @@
 
 Hi everyone, my name is Artem and my (second-name) surname is Fomenko. I (a) am a student (in the) at the  Oil and Gas university (gas and oil) in Moscow
 
-In my (practise) practice I usually use 'VSCode' and ~~(AI-instuments)~~ AI tools
+In my (practise) practice I usually use `VSCode` and ~~(AI-instuments)~~ AI tools
