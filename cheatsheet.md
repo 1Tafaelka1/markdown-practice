@@ -54,3 +54,11 @@ services:
     ports:
       - "80:80"
 ```
+
+# Notes for Markdown part 5 (Tables)
+
+| Command | Description | MyType |
+| :--- | ---: | --- |
+| `docker ps` | List running containers | ok |
+| `docker images` | List all images | ok |
+| `git status` | Show repository status | no |
