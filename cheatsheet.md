@@ -34,3 +34,23 @@ My plan:
 > (It is most) This is a very important push message
 
 > Markdown is (ease - лёгкость) easy. The most important thing is (a) practice
+
+# Notes for Markdown part 4 (Code blocks)
+
+```bash
+ip addr add 192.168.10.10/24 dev eth0
+ip link set dev eth0 up
+```
+
+```python
+print("Hello World!")
+```
+
+```yaml
+version: '3'
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "80:80"
+```
