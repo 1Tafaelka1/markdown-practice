@@ -24,3 +24,13 @@ My plan:
 - [x] Go to university
 - [ ] Wake up
 - [ ] Go to sleep  
+
+# Notes for Markdown part 3 (URL etc)
+
+- [(Documantation Markdown) Markdown Documentation](https://www.markdownguide.org/)
+- https://www.markdownguide.org/
+
+> [!WARNING]
+> (It is most) This is a very important push message
+
+> Markdown is (ease - лёгкость) easy. The most important thing is (a) practice
